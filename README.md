@@ -92,6 +92,9 @@ jsdelivr.com is an awesome CDN (Content Delivery Network) service that hosts man
 - **bgcolor()**: Adds background color to an HTML element 
 - **prevent()**: Prevent form action
 
+## Inspiration 
+Inspirations from [code4mom.js](https://github.com/yhoungdev/code4mom.js) and jquery. 
+
 ## Contributing 
 It's open source and contributions welcomed.
 
